@@ -73,7 +73,10 @@ $headers[] = 'X-Location: -6.405821,106.064193';
                     echo " Tunggu 10 Detik...\n";
                     sleep(10);
                     echo "\n";
+                    
 
+}
+    
 					
 					} 
 					
